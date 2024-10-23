@@ -1,7 +1,7 @@
 {
 	"id": "limit-breaker",
 	"name": "Limit Breaker",
-	"version": "0.0.0",
+	"version": "0.1.0",
 	"minAppVersion": "1.0.0",
 	"description": "Customize the limit of suggestions",
 	"author": "Unxok",
