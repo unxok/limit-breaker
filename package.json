@@ -1,5 +1,5 @@
 {
-	"name": "obsidian-vite",
+	"name": "limit-breaker",
 	"author": "Unxok",
 	"license": "MIT",
 	"keywords": [],
@@ -27,5 +27,8 @@
 		"tslib": "^2.8.0",
 		"typescript": "^4.7.4",
 		"vite": "^5.3.4"
+	},
+	"dependencies": {
+		"monkey-around": "^3.0.0"
 	}
 }
