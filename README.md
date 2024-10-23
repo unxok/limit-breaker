@@ -1,7 +1,13 @@
 # limit-breaker
+A very small Obsidian plugin that simply adds the ability to customize the maximum number of suggestions that will show in popovers and modals.
+
+Examples: link suggestion popover, file search modal, etc..
+
+## Contributing
+- Feature requests, bug reports, questions: [Open an issue](https://github.com/unxok/limit-breaker/issues/new)
+- PRs welcome!
 
 ## Translations
-
 Feel free to open a PR to add or review a translation. ChatGPT generated most of these translations, so if you review/edit one in your PR, please also update this table here in `README.md` to reflect that a human reviewed it.
 
 | Language                | Code | Human reviewed |
@@ -26,6 +32,5 @@ Feel free to open a PR to add or review a translation. ChatGPT generated most of
 | Dansk (Danish)          | da   | ❌             |
 | Norsk (Norwegian)       | no   | ❌             |
 
-# License
-
+## License
 MIT
